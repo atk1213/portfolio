@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "personal portfolio",
-  "main": "index.js",
+  "main": "client/src/index.js",
   "scripts": {
     "build-dev": "webpack -w --mode development",
     "build-prod": "webpack --mode production"
